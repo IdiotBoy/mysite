@@ -1,1 +1,1 @@
- python src/hello.py &>log.txt &
+ python src/app.py &>log.txt &
